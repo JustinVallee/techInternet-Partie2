@@ -26,7 +26,7 @@ Avant qu'un message ne soit envoyé, il doit être crypté avec la clef publique
 
 ### A- Décomposition du problème
 
-Pour pouvoir mener à bien ce projet et mettre sur pied cette interface, nous avons établi 8 principales tâches :
+Pour pouvoir mener à bien comprendre ce projet et mettre sur pied cette interface, nous avons établi 8 principales tâches :
 
 1. Créer une SPA
 2. Stocker le carnet d'adresse et les données
