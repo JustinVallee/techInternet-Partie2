@@ -1,7 +1,5 @@
 # Serveur 1226
 
-------
-
 ## Fonctions de l'application web
 
 ### Pour voir les messages dans la page "Boîte de réception" (de WOJCIECH), il faut d'abord en créer :
