@@ -22,7 +22,7 @@
 
 4. voir dans la page "Messages envoyés"
 
-#####'Tous les messages dans "Messages envoyés" sont les messages envoyés à partir du serveur 1226, bien sur qu'il sont cryptés, car seul le destinaire peut les décrypter avec sa clef privé.' 
+##### 'Tous les messages dans "Messages envoyés" sont les messages envoyés à partir du serveur 1226, bien sur qu'il sont cryptés, car seul le destinaire peut les décrypter avec sa clef privé.' 
 
 
 ### Pour tester le décryptage de tous les messages envoyés :
