@@ -11,7 +11,7 @@ Voici la Partie 2 du projet de messagerie Web pour le cours INF4533
 
 ### A- Contexte du projet 
 
-Le but du projet est de concevoir et d'implémenter un mini-serveur et une interface web à partir de laquelle un utilisateur(client web) peut envoyer et recevoir des messages. Le mini-serveur s'exécute localement sur la machine du client afin que l'interface web puisse fonctionner sans connexion internet.	
+Le but du projet est de concevoir et d'implémenter un mini-serveur et une interface web à partir de laquelle un utilisateur (client web) peut envoyer et recevoir des messages. Le mini-serveur s'exécute localement sur la machine du client afin que l'interface web puisse fonctionner sans connexion internet.	
 
 ### B- Exigences principales/ Fonctionnement général
 
