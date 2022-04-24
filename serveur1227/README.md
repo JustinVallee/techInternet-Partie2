@@ -1,4 +1,4 @@
-# Projet de fin de session "Mini-serveur pour courriel"
+# Serveur 1227
 -----------------------------------------------------------------------
 # Pour voir les messages dans la page "Boîte de réception" (de Yamine), il faut d'abord en créer :
 
