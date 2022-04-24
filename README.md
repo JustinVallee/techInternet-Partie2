@@ -67,7 +67,7 @@ Pour établir la communication serveur - serveur, nous avons utilisé la méthod
     "node-forge": "^1.3.1"
   }
   
-### Serveur pour notre réseau de peers
+## Serveur pour notre réseau de peers
 
 1. Serveur 1226
 2. Serveur 1227
