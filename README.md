@@ -19,7 +19,7 @@ L'interface web doit être un Single Page Application (SPA).
 Les messages doivent être cryptés suivant le modèle de chiffrement asymétrique, et stockés dans le mini-serveur.
 Chaque utilisateur de l'interface doit posséder une paire de clefs (publique et privée).
 La clef publique fait office d'adresse tandis que la clef privée sert à décrypter les messages.
-Avant qu'un message ne soit envoyé, il doit être encrypté avec la clef publique du destinataire. Ainsi, seul ce dernier, en possession de la clef privée correspondante, pourra décrypter le message qui lui est destiné.
+Avant qu'un message ne soit envoyé, il doit être crypté avec la clef publique du destinataire. Ainsi, seul ce dernier, en possession de la clef privée correspondante, pourra décrypter le message qui lui est destiné.
 
 
 ## II - Architecture de la solution
