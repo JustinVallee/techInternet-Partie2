@@ -39,7 +39,7 @@ Pour pouvoir mener à bien ce projet et mettre sur pied cette interface, nous av
 
 ### B- Développement de la solution
 
-L'environnement de développement utilisé est Visual Studio Code. Les langages utilisés pour la réalisation de l'interface sont : HTML - CSS & JavaScript (JS). La plateforme logicielle utilisée pour le côté serveur est NodeJS. Toutes les pages web de l'interface s'exécutent sur une seule page ( Single Page Application). Le stockage du carnet d'adresse (contacts + clefs publiques) est effectué via le localStorage. Pour l'instanciation des serveurs, nous avons utilisé le framework node Express JS. La collecte des messages est effectuée par 2 serveurs sur les ports 1226 et 1227 du LocalHost. 
+L'environnement de développement utilisé est Visual Studio Code. Les langages utilisés pour la réalisation de l'interface sont : HTML - CSS & JavaScript (JS). La plateforme logicielle utilisée pour le côté serveur est NodeJS. Toutes les pages web de l'interface s'exécutent sur une seule page. Le stockage du carnet d'adresse (contacts + clefs publiques) est effectué via le localStorage. Pour l'instanciation des serveurs, nous avons utilisé le framework node Express JS. La collecte des messages est effectuée par 2 serveurs sur les ports 1226 et 1227 du LocalHost. 
 Pour établir la communication client - serveur, nous avons utilisé les méthodes POST et GET :
 
 - POST  => Poste / Stocke les messages du client.
