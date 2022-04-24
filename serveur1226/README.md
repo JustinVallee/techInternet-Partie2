@@ -2,6 +2,8 @@
 
 ------
 
+## Fonctions de l'application web
+
 ### Pour voir les messages dans la page "Boîte de réception" (de WOJCIECH), il faut d'abord en créer :
 
 1. clicker sur le boutton Noveau message
