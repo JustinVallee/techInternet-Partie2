@@ -23,7 +23,7 @@ Pour voir les messages envoyés dans la page "Messages envoyés" :
 'Tous les messages dans "Messages envoyés" sont les messages envoyés à partir du serveur 1226, bien sur qu'il sont cryptés, car seul le destinaire peut les décrypter avec sa clef privé.' 
 
 
-Pour tester le décryptage de tous les messages envoyés :
+# Pour tester le décryptage de tous les messages envoyés :
 
 1. aller dans la page message envoyés
 
@@ -38,14 +38,14 @@ Pour tester le décryptage de tous les messages envoyés :
 6. voir le message décrypté un peu plus bas dans la page
 
 
-Pour voir les informations des peers du serveur 1227 tel que les peers et les messages :
+# Pour voir les informations des peers du serveur 1227 tel que les peers et les messages :
 
 1. lancer les deux serveurs
 
 2. voir les informations dans la page "Peer"
 
 
-Pour ajouter un message dans la page "Peer" du serveur 1226 :
+# Pour ajouter un message dans la page "Peer" du serveur 1226 :
 
 1. aller sur le serveur 1227
 
