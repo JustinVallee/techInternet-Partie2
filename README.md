@@ -1,11 +1,11 @@
 # Projet de fin de session "Mini-serveur pour courriel"
 
-Nous avons créé deux serveur pour notre réseau de peer.
+Réalisé par Justin Vallée et Yamine Ibrahima
+            valj27@uqo.ca  -  ibry01@uqo.ca
+            
+Voici la Partie 2 du projet de messagerie Web pour le cours INF4533
 
-1. Serveur 1226
-2. Serveur 1227
-
-### IL EST IMPORTANT D'INSTALLER LES DÉPENDANCES REQUISES
+### IL EST IMPORTANT D'INSTALLER LES DÉPENDANCES REQUISES POUR QUE L'APPLICATION FONCTIONNE
 
   "dependencies": {
   
@@ -22,3 +22,10 @@ Nous avons créé deux serveur pour notre réseau de peer.
   
     "node-forge": "^1.3.1"
   }
+  
+### Serveur pour notre réseau de peers
+
+1. Serveur 1226
+2. Serveur 1227
+
+
