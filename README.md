@@ -35,7 +35,7 @@ Pour pouvoir mener à bien ce projet et mettre sur pied cette interface, nous av
 5. Envoyer les messages chiffrés au serveur
 6. Renvoyer tous les messages stockés dans un serveur
 7. Déchiffrer les messages
-8. Etablir une communication Serveur - Serveur 
+8. Établir une communication Serveur - Serveur 
 
 
 ### IL EST IMPORTANT D'INSTALLER LES DÉPENDANCES REQUISES POUR QUE L'APPLICATION FONCTIONNE
