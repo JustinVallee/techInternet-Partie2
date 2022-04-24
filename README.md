@@ -72,4 +72,23 @@ Pour établir la communication serveur - serveur, nous avons utilisé la méthod
 1. Serveur 1226
 2. Serveur 1227
 
+Chaque serveur contient les fichiers ci-dessous :
+
+## Fichiers de la solution
+
+        ├── index.js         --- code js du serveur
+        ├── package.json     --- fichier des dépendances 
+        ├── node_modules     --- tous les packages
+        ├── public           --- répertoire avec ressources statiques
+        │              ├── carnet.js --- fichier copié de la partie 1 : pour chercher un contact
+        │              ├── client.js     --- fichier pour le côté client
+        │              ├── forge.min.js    --- fichier copié de 'node-forge'.
+        │              └── index.html      --- fichier copié de la partie 1 : page d'accueil du site
+        │              ├── nouveauMessage.html   --- fichier copié de la partie 1 : page pour envoyer un message
+        │              ├── messages_envoyes.html   --- fichier copié de la partie 1 : page pour consulter les messages envoyés.
+		    │              ├── peer.html --- fichier pour les informations d'un autre serveur (peer)
+        │              ├── carnetdaddresses.html   --- fichier copié de la partie 1 : page pour consulter la liste    des contacts.
+		    │              ├── custom.css fichier copié de la partie 1 : le css
+
+        └── README.md
 
