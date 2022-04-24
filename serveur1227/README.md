@@ -61,24 +61,21 @@ Pour ajouter un message dans la page "Peer" du serveur 1227 :
 
 # Dépendances
 
-{
-  "name": "express-with-node-forge",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+Il faut installer les dépendances suivantes
+
   "dependencies": {
+  
     "cors": "^2.8.5",
+    
     "express": "^4.17.3",
+    
     "forge": "^2.3.0",
+    
     "http-get-json": "^1.0.1"
   },
+  
   "devDependencies": {
+  
     "node-forge": "^1.3.1"
   }
 
