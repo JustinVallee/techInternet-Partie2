@@ -30,7 +30,7 @@ Pour pouvoir mener à bien ce projet et mettre sur pied cette interface, nous av
 
 1. Créer une SPA
 2. Stocker le carnet d'adresse et les données
-3. Etablir la communication Client - Serveur
+3. Établir la communication Client - Serveur
 4. Chiffrer les messages
 5. Envoyer les messages chiffrés au serveur
 6. Renvoyer tous les messages stockés dans un serveur
