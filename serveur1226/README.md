@@ -12,7 +12,7 @@
 
 4. voir dans la page "Boîte de réception" de (WOJCIECH)
 
-# Pour voir les messages envoyés dans la page "Messages envoyés" :
+### Pour voir les messages envoyés dans la page "Messages envoyés" :
 
 1. clicker sur le boutton Noveau message
 
