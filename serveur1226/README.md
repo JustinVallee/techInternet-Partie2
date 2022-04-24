@@ -93,7 +93,7 @@ Il faut installer les dépendances suivantes
         │              └── index.html      --- fichier copié de la partie 1 : page d'accueil du site
         │              ├── nouveauMessage.html   --- fichier copié de la partie 1 : page pour envoyer un message
         │              ├── messages_envoyes.html   --- fichier copié de la partie 1 : page pour consulter les messages envoyés.
-		    │              ├── peer.html --- fichier pour les informations d'un autre serveur (peer)
+		    │              ├── peers.html --- fichier pour les informations d'un autre serveur (peer)
         │              ├── carnetdaddresses.html   --- fichier copié de la partie 1 : page pour consulter la liste    des contacts.
 		    │              ├── custom.css fichier copié de la partie 1 : le css
 
